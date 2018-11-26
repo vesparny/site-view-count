@@ -2,7 +2,6 @@
 
 [https://arnodo.net](https://arnodo.net)
 
-[![Build Status](https://travis-ci.org/vesparny/site-view-count.svg)](https://travis-ci.org/vesparny/site-view-count)
 [![Dependency status](https://david-dm.org/vesparny/site-view-count.svg)](https://david-dm.org/vesparny/site-view-count 'Dependency status')
 [![Dev dependency status](https://david-dm.org/vesparny/site-view-count/dev-status.svg)](https://david-dm.org/vesparny/site-view-count#info=devDependencies 'Dev dependency status')
 
