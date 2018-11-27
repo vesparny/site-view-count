@@ -57,7 +57,7 @@ function verify(req) {
 
   const clientIp = requestIp.getClientIp(req)
   seen[clientIp] = seen[clientIp] || 0
-  if (seen[clientIp] > 10) {
+  if (seen[clientIp] > 1000) {
     const err = new Error('Too many views per IP')
     err.statusCode = 429
     throw err
